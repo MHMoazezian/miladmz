@@ -1,7 +1,6 @@
 - 👋 Hi, I’m mohammad hossain moazezian
-- 👀 I’m interested in python programming 
-- 🌱 I’m currently learning deep learning
-- 📫 How to reach me mmoazezian@gmail.com
+- 👀 I’m interested in python programming in Remote Sensing and Machine learning
+
 
 <!---
 miladmz/miladmz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
